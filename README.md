@@ -9,7 +9,7 @@ Formando em Análise e Desenvolvimento de Sistemas, estou começando a trilhar m
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/anssm/)
-* [Medium](https://medium.com)
+* [Medium](https://medium.com/@an.monteiro)
 
 ## Projetos:
 Projetos realizados:
