@@ -13,5 +13,6 @@ Formando em Análise e Desenvolvimento de Sistemas, estou começando a trilhar m
 
 ## Projetos:
 Projetos realizados:
+* [Análise dos Dados do Airbnb - Lisboa, Portugal](https://github.com/anssodre/datascience/blob/master/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb)
 
 # EM CONSTRUÇÃO
