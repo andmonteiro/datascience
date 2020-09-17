@@ -5,7 +5,7 @@
 # Anderson Monteiro
 Portifólio de Projetos de Data Science
 
-Formando em Análise e Desenvolvimento de Sistemas, estou começando a trilhar meu caminho na área de Data Science. Estarei colocando meus projetos feitos aqui.
+Formado em Análise e Desenvolvimento de Sistemas, estou começando a trilhar meu caminho na área de Data Science. Estarei colocando meus projetos feitos aqui.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/anssm/)
