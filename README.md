@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/anssodre/datascience/master/banner.png" >
 </p>
 
-# Anderson Monteiro
+# Anderson da Silva Sodré Monteiro
 Portifólio de Projetos de Data Science
 
 Formado em Análise e Desenvolvimento de Sistemas, estou começando a trilhar meu caminho na área de Data Science. Estarei colocando meus projetos feitos aqui.
