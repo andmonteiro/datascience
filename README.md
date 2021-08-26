@@ -12,7 +12,6 @@ Formado em Análise e Desenvolvimento de Sistemas, estou começando a trilhar me
 * [Medium](https://medium.com/@an.monteiro)
 
 ## Projetos:
-Projetos realizados:
 
 * [Detecção de Fraudes em Cartão de Crédito](https://github.com/andmonteiro/datascience/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 * [Deploy de aplicação no Streamlit usando dados do Airbnb](https://github.com/andmonteiro/streamlit-airbnb)
